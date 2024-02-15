@@ -3,7 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Computer Science graduate student at Stevens Institute of Technology. 
+- 💼 &nbsp; I'm working as a Software Engineer Intern at Cantor FitzGerald Inc, New York Office.  
+- 🔭 &nbsp; I’m currently a Computer Science graduate student at Stevens Institute of Technology. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Masters' in Computer Science and Bechlore's in Information & Communication Technology minor in Computational Science from DAIICT 
 - 💼 &nbsp; Ex- Senior software engineer at Acceldata | Ex- Data engineer at GE Corporate 
@@ -15,7 +16,7 @@
 
 - 💻 &nbsp; Java | Python | Kotlin | Cpp | C | Scala  
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | AngularJs 
-- 🌐 &nbsp; NodeJs | Ktor | Spark Java | Hadoop
+- 🌐 &nbsp; NodeJs | Ktor | Spark Java | Hadoop | Dhtmlx | Springboot
 - 🛢 &nbsp; MySQL | Firebase | Snowflake | Postgres | AWS s3 | RDS | Redshift
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Matlab | Git | Intellij
 - 🖥 &nbsp; MAC OS | Windows | Linux | Raspberry Pi | Arduino
